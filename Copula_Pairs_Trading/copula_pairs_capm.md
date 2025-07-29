@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: "Copula Pairs Trading Combined with CAPM"
