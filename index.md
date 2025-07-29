@@ -33,3 +33,20 @@ Hello! This portfolio showcases selected projects I’ve developed during my mas
 
 ### [3. Mutual Fund Categorization using NLP and ML Models](/Mutual_Fund_NLP/fund_nlp.md)
 <img src="indeximages/mutualfunds.png" style="width:70%;"/>
+
+---
+
+### [4. Portfolio Construction and Quantitative Trading using DBN + LSTM](/Portfolio_Construction_ML/portfolio_ml.md)
+<img src="indeximages/portfolio_ml.png" style="width:70%;"/>
+
+---
+
+### [5. Econometric Models & Regime Detection in Cryptocurrencies](/Crypto_Regime_HMM/crypto_hmm.md)
+<img src="indeximages/hmmcrypto.png" style="width:70%;"/>
+
+---
+
+### [6. Copula Pairs Trading Combined with CAPM Model](/Copula_Pairs_Trading/copula_pairs_capm.md)
+<img src="indeximages/copula_nav.png" style="width:70%;"/>
+
+---
