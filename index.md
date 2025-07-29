@@ -21,27 +21,15 @@ Hello! This portfolio showcases selected projects I’ve developed during my mas
 
 ## Projects
 
-### [1. Credit Risk: CDS-Based Default Prediction & Index Construction](/Project_CDS_Risk/cds_project.md)
-<img src="indeximages/cds.png" style="width:70%;"/>
+### [1. Exotic Option Pricing and Advanced Derivative Strategies](/Exotic_Options_Pricing/exotic_options.md)
+<img src="indeximages/exoticoptionprice.png" style="width:70%;"/>
 
 ---
 
-### [2. Options Market-Making Bot for Listed Derivatives](/Project_Options_MM/options_mm.md)
-<img src="indeximages/marketmaking.png" style="width:70%;"/>
+### [2. Dynamic Credit Migration-Based Trading Framework](/Credit_Migration_Framework/credit_framework.md)
+<img src="indeximages/credittrading.png" style="width:70%;"/>
 
 ---
 
-### [3. Regime Detection in Crypto via Hidden Markov Models](/Project_Crypto_HMM/hmm_crypto.md)
-<img src="indeximages/hmmcrypto.png" style="width:70%;"/>
-
----
-
-### [4. Tokenomics: ICO Smart Contracts & Blockchain Metrics](/Project_Blockchain_Tokenomics/tokenomics.md)
-<img src="indeximages/tokenomics.png" style="width:70%;"/>
-
----
-
-### [5. Machine Learning-Driven Portfolio Optimization](/Project_Portfolio_ML/portfolio_ml.md)
-<img src="indeximages/portfolio_ml.png" style="width:70%;"/>
-
----
+### [3. Mutual Fund Categorization using NLP and ML Models](/Mutual_Fund_NLP/fund_nlp.md)
+<img src="indeximages/mutualfunds.png" style="width:70%;"/>
